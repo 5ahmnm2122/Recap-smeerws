@@ -8,6 +8,7 @@ https://pixabay.com/de/vectors/ziel-pfeil-bogen-sport-schlag-36797/
 https://pixabay.com/de/vectors/fadenkreuz-anvisieren-zielen-467258/
 https://freesound.org/s/435417/
 
+### Targetplatform: https://5ahmnm2122.github.io/Recap-smeerws/
 
 Cursor clickpoint in WebGl build not center (crosshair) -->  set cursor hotspot
 
